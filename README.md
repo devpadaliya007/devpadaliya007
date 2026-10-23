@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Padaliya</h1>
+<h1 align="center">Hello👋, I'm Dev Padaliya</h1>
 <h3 align="center">A passionate B.Tech Computer Engineering student & software developer from India 🇮🇳</h3>
 
 <p align="center">

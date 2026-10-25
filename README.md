@@ -1,62 +1,156 @@
-<h1 align="center">Hello👋, I'm Dev Padaliya</h1>
-<h3 align="center">A passionate B.Tech Computer Engineering student & software developer from India 🇮🇳</h3>
+<!-- Banner: Add banner.png to your profile repository if you have one -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dev%20Padaliya&fontSize=45&fontAlignY=35&animation=fadeIn" width="100%" alt="Dev Padaliya Banner" />
+</p>
+
+<div>
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Developer illustration" />
+</div>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Waving emoji" /> I'm Dev Padaliya!
+
+**B.Tech Computer Engineering Student | Software Developer**
+
+<p align="left">
+  I am a passionate Computer Engineering student at Marwadi University, Gujarat, India. I enjoy building web and mobile applications and exploring technologies that help solve real-world problems. My interests include Java, Flutter, ASP.NET, databases, and full-stack development.
+</p>
+
+- ✨ Always learning and building something new.
+- 🌱 Currently improving my skills in Java, Spring Boot, Flutter, and .NET.
+- 💻 Interested in web development, software engineering, and mobile applications.
+- 🔭 Working on academic and personal development projects.
+- 👯 Open to collaborating on interesting open-source projects.
+- 🚀 Focused on turning ideas into practical applications.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devpadaliya007&label=Profile%20Views&color=770677&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+<p align="left">
+  <!-- Frameworks and Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+<p align="left">
+  <!-- Databases and Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 📚 Current Learning
+
+- 🌱 Strengthening Java and object-oriented programming concepts.
+- ⚙️ Exploring Spring Boot, REST APIs, and backend development.
+- 📱 Building Flutter applications and learning mobile app development.
+- 🌐 Improving full-stack web development skills.
+- 🗄️ Practicing SQL, database design, and CRUD operations.
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devpadaliya007.devpadaliya007" alt="Visitor Count" />
-  <a href="https://github.com/devpadaliya007">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/devpadaliya007?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpadaliya007&repo=Learner-Vault&theme=radical&hide_border=true" alt="Learner Vault Repository" />
+  </a>
+</p>
+
+- **Learner Vault** — A smart learning hub for organizing learning materials and announcements.
+- **Elegance Footware** — A Flutter-based online shoe shopping application.
+- **Internship Finder** — An internship portal developed with ASP.NET and SQL Server.
+- **Knowledgify** — A concept for a centralized interface to coordinate interactions with multiple LLMs.
+
+<p align="center">
+  <a href="https://github.com/devpadaliya007?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
 </p>
 
 ---
 
-### 💻 About Me
-
-* 🌍 I'm based in Gujarat, India
-* 🌱 I’m currently pursuing my **B.Tech in Computer Engineering** at **Marwadi University**.
-* 🪛  Tech Stack: Java, JSP, Spring Boot, Android, Flutter, Dart, C#, ASP.NET Core, Web API, Firebase.
-* 🔭 I’m currently working on full-stack web and mobile applications (Spring Boot, ASP.NET, Flutter, and MERN stack).
-* 👯 I’m looking to collaborate on **open-source projects**: [Passcodes](https://github.com/PasscodesApp/Passcodes)
-* ⚡ Fun fact: *Ctrl + Alt + Del Was Created in 5 Minutes*
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <!-- Frameworks & Backend -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpadaliya007&show_icons=true&theme=radical&hide_border=true" alt="Dev's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpadaliya007&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devpadaliya007&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
-* 📧 Email: **devpadaliya88@gmail.com**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devpadaliya007&show_icons=true&theme=radical&hide_border=true" alt="Dev's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpadaliya007&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpadaliya007&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpadaliya007&theme=redical&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🌟 Thought of the Day
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily Inspirational Quote" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:devpadaliya88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/devpadaliya007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+- 📧 Email: **devpadaliya88@gmail.com**
+- 💻 GitHub: [devpadaliya007](https://github.com/devpadaliya007)
+- 🇮🇳 Location: Gujarat, India
+
+---
+
+<p align="center">
+  <b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>

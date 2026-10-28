@@ -1,6 +1,4 @@
-<!-- ==================== HEADER BANNER ==================== -->
-
-<p align="center">
+**<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dev%20Padaliya&fontSize=45&fontAlignY=35&animation=fadeIn" width="100%" alt="Dev Padaliya Banner" />
 </p>
 
@@ -39,6 +37,8 @@ I am a passionate Computer Engineering student at Marwadi University, Gujarat, I
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
+
+
 
 **Frameworks & Development**
 
@@ -166,3 +166,4 @@ A concept for a centralized interface to coordinate interactions with multiple L
   <b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
 </p>
 
+**
